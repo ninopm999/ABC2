@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+# Add other libraries if your app uses them (e.g., matplotlib, seaborn, scipy)
+# If you use scipy.stats.mstats.winsorize in your app.py, uncomment scipy:
+# scipy
